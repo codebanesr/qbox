@@ -1,0 +1,47 @@
+.course-level .level-title {
+    display: block;
+    background-color: #ffffff;
+    width: 68px;
+    text-align: center;
+    margin: auto;
+    border-radius: 16px;
+    padding: 2px 4px;
+    position: relative;
+    -webkit-box-shadow: 0 1.5px 4px rgba(0,0,0,0.24), 0 1.5px 6px rgba(0,0,0,0.12);
+    box-shadow: 0 1.5px 4px rgba(0,0,0,0.24), 0 1.5px 6px rgba(0,0,0,0.12);
+}
+
+
+.vertical-divider{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1px;
+    height: 20px;
+    border: 1px solid #DCDCDC;
+}
+
+
+
+.topic-connector-2, .topic-connector-4 {
+    width: 400px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px 10px 0 0;
+    border-top: 2px solid #DCDCDC;
+    border-left: 2px solid #DCDCDC;
+    border-right: 2px solid #DCDCDC;
+}
+
+
+
+.topic-connector-2-bottom, .topic-connector-4-bottom {
+    width: 400px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0 0 10px 10px;
+    border-bottom: 2px solid #DCDCDC;
+    border-left: 2px solid #DCDCDC;
+    border-right: 2px solid #DCDCDC;
+}
